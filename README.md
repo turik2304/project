@@ -1,3 +1,5 @@
+Research work. Emulators of laboratory systems for vacuum pumping, sputtering, and spraying
+
 # project
 to run vacuum pumping lab - start vacuum/vacuum_lab.py
 to run vaporization lab - start vaporization/vaporization_lab.py
